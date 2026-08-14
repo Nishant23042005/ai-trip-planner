@@ -801,8 +801,9 @@ Do not output any markdown code blocks, backticks, or text before/after the JSON
       console.log(`User Prompt:\n${userPrompt}`);
       console.log("=================================================");
 
+      const modelName = process.env.OPENAI_API_MODEL || "gpt-4o-mini";
       const response = await openai.chat.completions.create({
-        model: "gpt-4o-mini", // Cost-effective, very fast and supports high quality json mode
+        model: modelName,
         messages: [
           { role: "system", content: systemPrompt },
           { role: "user", content: userPrompt },
