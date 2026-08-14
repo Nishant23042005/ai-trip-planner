@@ -1,0 +1,54 @@
+:root {
+  /* Vibrant Clean Travel Light Theme Colors */
+  --background: #F8FAFC;
+  --background-secondary: #F1F5F9;
+  --foreground: #0F172A;
+  --secondary-foreground: #334155;
+  --muted-foreground: #64748B;
+  --disabled-foreground: #94A3B8;
+
+  --card: #FFFFFF;
+  --card-foreground: #0F172A;
+  --card-hover: #F8FAFC;
+
+  --popover: #FFFFFF;
+  --popover-foreground: #0F172A;
+
+  --primary: #0EA5E9; /* Vibrant sky/travel blue */
+  --primary-foreground: #FFFFFF;
+
+  --secondary: #F1F5F9; /* Light blue-gray border/background */
+  --secondary-foreground: #0EA5E9;
+
+  --muted: #F1F5F9;
+  --muted-foreground: #64748B;
+
+  --accent: #EA580C; /* Sunset orange / coral CTA */
+  --accent-foreground: #FFFFFF;
+
+  --border: #E5E7EB; /* Very light gray */
+  --input: #FFFFFF;
+  --ring: #0EA5E9;
+
+  --success: #10B981;
+  --warning: #F59E0B;
+  --error: #EF4444;
+  --info: #3B82F6;
+
+  --glass-background: rgba(255, 255, 255, 0.90);
+  --glass-border: rgba(229, 231, 235, 0.60);
+  --glass-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.05);
+  --hero-overlay: linear-gradient(180deg, rgba(248, 250, 252, 0.4) 0%, rgba(248, 250, 252, 0.98) 100%);
+
+  /* Icons & Badges specific to Light mode */
+  --icon-primary: #334155;
+  --icon-secondary: #64748B;
+  --icon-active: #0EA5E9;
+
+  --badge-teal-bg: #E0F2FE;
+  --badge-teal-text: #0369A1;
+  --badge-blue-bg: #E0F7FA;
+  --badge-blue-text: #006064;
+  --badge-amber-bg: #FFEDD5;
+  --badge-amber-text: #C2410C;
+}

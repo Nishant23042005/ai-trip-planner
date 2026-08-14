@@ -1,0 +1,51 @@
+.dark {
+  /* Premium Super-Bright Dark Theme Colors */
+  --background: #070B14;
+  --background-secondary: #0D1420;
+  --foreground: #FFFFFF;
+
+  --card: #111827;
+  --card-foreground: #FFFFFF;
+  --card-hover: #182234;
+
+  --popover: #111827;
+  --popover-foreground: #FFFFFF;
+
+  --primary: #2DD4BF;
+  --primary-foreground: #042F2E;
+
+  --secondary: #1E293B;
+  --secondary-foreground: #F8FAFC; /* Very bright, near white */
+
+  --muted: #182234;
+  --muted-foreground: #E2E8F0; /* Bright silver, highly readable */
+
+  --accent: #123B4A;
+  --accent-foreground: #67E8F9;
+
+  --border: rgba(255, 255, 255, 0.18);
+  --input: #101826;
+  --ring: #2DD4BF;
+
+  --success: #34D399;
+  --warning: #FBBF24;
+  --error: #FB7185;
+  --info: #38BDF8;
+
+  --glass-background: rgba(17, 24, 39, 0.88);
+  --glass-border: rgba(255, 255, 255, 0.18);
+  --glass-shadow: 0 12px 40px 0 rgba(0, 0, 0, 0.55);
+  --hero-overlay: linear-gradient(180deg, rgba(7, 11, 20, 0.6) 0%, rgba(7, 11, 20, 0.98) 100%);
+
+  /* Icons & Badges specific to Dark Mode */
+  --icon-primary: #FFFFFF;
+  --icon-secondary: #F1F5F9;
+  --icon-active: #2DD4BF;
+
+  --badge-teal-bg: #134E4A;
+  --badge-teal-text: #99F6E4;
+  --badge-blue-bg: #123B4A;
+  --badge-blue-text: #7DD3FC;
+  --badge-amber-bg: #451A03;
+  --badge-amber-text: #FCD34D;
+}
