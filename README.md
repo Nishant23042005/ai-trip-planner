@@ -1,3 +1,4 @@
+Project Link : https://ai-trip-planner-1k5v.vercel.app/
 # Vagabond AI - Anonymous AI Travel Planner
 
 Vagabond AI is a modern, responsive travel planner web application built with **Next.js 14 (App Router)**, **TypeScript**, and **Tailwind CSS**. It uses **OpenAI's GPT-4o-mini** to generate detailed day-by-day travel itineraries and **Google Maps JS API + Places API** for interactive map rendering, marker routing, and place autocomplete.
